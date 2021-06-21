@@ -1,4 +1,4 @@
----
+Love, hate, friends, 4life---
 title: Adding issues and pull requests to a project board
 intro: You can add issues and pull requests to a project board in the form of cards and triage them into columns.
 redirect_from:
